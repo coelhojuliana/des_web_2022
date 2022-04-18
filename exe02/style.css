@@ -1,0 +1,98 @@
+body{
+    background-color: white;
+}
+
+li{
+    list-style: none;
+}
+
+.cor-per{
+    color:rgb(15, 20, 25)
+}
+a{
+    text-decoration: none;
+}
+
+.grid {
+    width: 100%;
+    height: 100%;
+}
+
+.box {
+    border-radius: 50px;
+    padding: 1%;
+}
+
+.box:hover{
+    background-color: rgba(15, 25, 20, 0.1);
+}
+
+#estatisticas ul li a span{
+    color: rgb(15, 20, 25);
+    font-weight: bold;
+}
+
+#estatisticas ul li a{
+    color:rgb(83, 100, 113);
+}
+
+#estatisticas ul li a:hover{
+    text-decoration: underline;
+}
+
+#acoes ul li a{
+    color:rgb(83, 100, 113);
+}
+
+#acoes ul li span{
+    padding: 1%;
+    border-radius: 50px;
+}
+
+#reply-share:hover{
+    color: rgba(29, 155, 240, 1);
+    background-color: rgba(29, 155, 240, 0.1);
+}
+
+#like:hover{
+    color: rgba(249, 24, 128, 1);
+    background-color: rgba(249, 24, 128, 0.1);
+}
+
+#retzeet:hover{
+    color:rgba(0, 186, 124, 1);
+    background-color: rgba(0, 186, 124, 0.1);
+}
+
+#acoes ul li a:hover{
+    text-decoration: underline;
+}
+
+.name{
+    color: rgb(15, 20, 25);
+}
+
+.username{
+    color:rgb(83, 100, 113);
+}
+
+#bio{
+    color: rgb(15, 20, 25);
+}
+
+.info{
+    color: rgb(83, 100, 113);
+}
+
+#tzeet{
+    color: rgb(15, 20, 25);
+    
+}
+
+#publicacoes div{
+    padding: 1%;
+}
+
+#publicacoes div:hover{
+    background-color:  rgba(249, 24, 128, 0.1);
+}
