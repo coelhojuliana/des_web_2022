@@ -1,0 +1,21 @@
+.selector-for-some-widget {
+    box-sizing: content-box;
+  }
+
+.redondo{
+    border-radius: 30%;
+}
+
+a{
+    text-decoration: none;
+}
+
+.replies a:hover{
+    background-color: cor rgb(29, 155, 240);
+    border-radius: 20%;
+}
+
+.multimedia i:hover{
+    background-color: rgb(29, 155, 240);
+    border-radius: 20%;
+}
